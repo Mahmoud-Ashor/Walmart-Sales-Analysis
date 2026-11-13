@@ -52,6 +52,7 @@ Holiday_Sales = CALCULATE([Total_Sales], Walmart_Sales[Holiday_Flag] = 1)
 -- Count the total number of unique stores
 Number_of_Stores = COUNT(Stores[Store])
 ```
+---
 
 ## 💡 Key Insights & Findings
 
@@ -66,8 +67,9 @@ Number_of_Stores = COUNT(Stores[Store])
   
 * **4. External Factors:** 
   Scatter plots and correlation analysis indicate that external factors like temperature and fuel prices show minimal direct linear impact on total store sales within the observed range.
+---
 
-  ## 💻 Tech Stack & Tools
+## 💻 Tech Stack & Tools
 - **Microsoft Power BI** (Data Modeling, DAX, Power Query, Data Visualization)
 - **Microsoft Excel** (Data Inspection & Preprocessing)
 - **GitHub** (Version Control & Documentation)
