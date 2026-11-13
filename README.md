@@ -63,7 +63,7 @@ Number_of_Stores = COUNT(Stores[Store])
   Peak sales were recorded in 2011 ($2.45bn), followed by 2010 ($2.29bn) and 2012 ($2.00bn). Although 2012 shows a lower total annual volume, monthly trend analysis and data completeness checks prove that 2012 sales closely matched (and at times outperformed) previous years—confirming that the annual drop was entirely driven by missing Q4 data records rather than an operational downturn.
   
 * **3. Store-Level Performance:** 
-  Revenue distribution is heavily polarized; specific top-performing branches (e.g., Stores 20, 4, 14) drive the bulk of sales, while bottom-performing branches require immediate operational focus and support[cite: 4].
+  Revenue distribution is heavily polarized; specific top-performing branches (e.g., Stores 20, 4, 14) drive the bulk of sales, while bottom-performing branches require immediate operational focus and support.
   
 * **4. External Factors:** 
   Scatter plots and correlation analysis indicate that external factors like temperature and fuel prices show minimal direct linear impact on total store sales within the observed range.
