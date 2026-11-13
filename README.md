@@ -12,7 +12,7 @@ This dashboard provides deep insights into Walmart's weekly sales, distinguishin
 ## 🖼️ Dashboard Screenshots
 
 ### 1. Main Dashboard - Performance & Trends Overview
-![Main Dashboard](Screenshot%20for%20main%20dashboard%20of%20walmart%20sale....png)
+![Main Dashboard](Screenshot%20for%20main%20dashboard%20of%20walmart%20sales.png)
 
 ### 2. Sales Investigation & Root Cause Analysis
 ![Sales Investigation](Screenshot%20for%20sales%20investigation%20dashboard.png)
@@ -72,10 +72,13 @@ Number_of_Stores = COUNT(Stores[Store])
 - **Microsoft Excel** (Data Inspection & Preprocessing)
 - **GitHub** (Version Control & Documentation)
 
-  .
+---
+## 📁 Repository Structure
+```text
+.
 ├── Walmart Sales Analysis Dashboard.pbix              # Main Power BI interactive dashboard file
 ├── Walmart_Sales.xlsx                                 # Original Dataset
-├── Screenshot for main dashboard of walmart sale....png # Overview of the main dashboard
-├── Screenshot for sales investigation dashboard.png   # Sales Investigation page view
-├── Screenshot for key insight dashboard.png           # Executive summary & key insights view
+├── walmart-main.png                                   # Overview of the main dashboard
+├── walmart-investigation.png                          # Sales Investigation page view
+├── walmart-insights.png                               # Executive summary & key insights view
 └── README.md                                          # Project documentation and guide
